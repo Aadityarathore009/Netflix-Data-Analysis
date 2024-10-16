@@ -1,4 +1,4 @@
-**Netflix Data: Cleaning, Analysis, and Visualization**<br>
+***Netflix Data: Cleaning, Analysis, and Visualization***<br>
   
 **Project Overview**<br>
   
@@ -7,7 +7,7 @@ This project involves the comprehensive analysis of Netflix's content dataset to
 
 **Key Objectives**<br>
 
-*Data Cleaning:* Prepare the dataset by handling missing values, correcting data types, and ensuring consistency for accurate analysis.<br>
+**Data Cleaning:** Prepare the dataset by handling missing values, correcting data types, and ensuring consistency for accurate analysis.<br>
 
 **Exploratory Data Analysis (EDA):** Perform in-depth analysis to identify patterns in content releases, popular genres, and audience ratings.<br>
 
